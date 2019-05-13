@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/cyrus/Documents/kinematic-solver/arm.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/arm.srdf
+  CONFIG:
+    author_name: Cyrus Cowley
+    author_email: ccowley@ucsd.edu
+    generated_timestamp: 1557099588

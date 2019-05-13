@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/cyrus/Documents/catkin/devel -DCMAKE_INSTALL_PREFIX=/home/cyrus/Documents/catkin/install -G Unix Makefiles
